@@ -21,7 +21,7 @@ $ python suv.py {dicom_file_path}
 
 First, clone this repository or suv.py file to your project.
 
-```
+```py
 import suv
 
 import pydicom
