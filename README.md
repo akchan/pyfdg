@@ -1,5 +1,5 @@
-# qiba_fdg_suv
-
+# pyfdg
+ 
 SUV calculation from dicom files based on pseudo-code from QIBA SUV subcommittee.
 
 https://qibawiki.rsna.org/index.php/Standardized_Uptake_Value_(SUV)
@@ -11,7 +11,7 @@ https://qibawiki.rsna.org/index.php/Standardized_Uptake_Value_(SUV)
 
 # Usage
 
-## Calculate SUVmax
+## Calculate SUVmax from a dicom file
 
 ```
 $ python suv.py {dicom_file_path}
